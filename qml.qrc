@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/dormammu.png</file>
+        <file>images/strange.png</file>
+        <file>Player.qml</file>
+        <file>Planet.qml</file>
+    </qresource>
+</RCC>
