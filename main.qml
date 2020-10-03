@@ -23,6 +23,10 @@ Window {
             id:player
             x:parent.width/2-width/2
         }
+        Spikes{
+
+            x:parent.width/3-width/2
+        }
     }
     MouseArea{
         anchors.fill: parent

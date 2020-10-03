@@ -5,5 +5,7 @@
         <file>images/strange.png</file>
         <file>Player.qml</file>
         <file>Planet.qml</file>
+        <file>Spike.qml</file>
+        <file>Spikes.qml</file>
     </qresource>
 </RCC>
