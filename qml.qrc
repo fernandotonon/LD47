@@ -7,5 +7,9 @@
         <file>Planet.qml</file>
         <file>Spike.qml</file>
         <file>Spikes.qml</file>
+        <file>images/target.png</file>
+        <file>SFX/come_to_bargain.wav</file>
+        <file>SFX/spike.wav</file>
+        <file>SFX/uargh.wav</file>
     </qresource>
 </RCC>
